@@ -5,6 +5,6 @@ class CreateReviews < ActiveRecord::Migration[6.1]
       t.string :comment
       t.integer :post_id
       t.timestamps
-    end
+    endz
   end
 end
