@@ -46,10 +46,6 @@ class ApplicationController < Sinatra::Base
         post.to_json
     end
 
-    delete '/reviews/:id' do
-        post = Review.find(params[:id])
-        post.delete
-        post.to_json
-    end
+    
 
 end
