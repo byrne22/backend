@@ -53,9 +53,7 @@ As a user of the application,you will be able to :
 
 ### Technology  Used
 
-* HTML - has been used to display the app.
-* CSS - has been used to style the User Interface.
-* React- has been used to make single web page applications
+
 * Ruby- has been used to develop the backend of the app. For instances active record has been used to interact with thhe database
 
 
