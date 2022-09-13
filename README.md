@@ -5,7 +5,7 @@
 ## Screenshot
 
  <!-- ![image](./blog-client/public/landing.png) -->
- <img src="/blog-client/public/landing.png" />
+
  
  ## Table of Content
 
