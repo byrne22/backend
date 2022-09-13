@@ -48,6 +48,9 @@ As a user of the application,you will be able to :
 
 - Click this link to view the live application 
 
+### Front-end repo link
+- Click this link to view the frontend repo https://github.com/byrne22/frontend
+
 ### Technology  Used
 
 * HTML - has been used to display the app.
