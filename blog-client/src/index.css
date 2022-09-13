@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -8,7 +8,7 @@ body {
   
   background-size: cover;
   background-color: rgb(156, 156, 148);
-  background-image: url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+  background-image: url("https://www.istockphoto.com/photo/content-marketing-content-data-blogging-media-publication-information-vision-concept-gm976370312-265552361?phrase=blogger");
 }
 
 code {
@@ -19,9 +19,13 @@ code {
 .navName{
   text-align:center;
   color: aliceblue;
-  font-family: verdana;
+  font-family: arima;
   background-color: black;
-  height: 300px;
+  height: 180px;
+  width: 100%;
+  padding-left: 6px;
+ 
+
 
   
   
