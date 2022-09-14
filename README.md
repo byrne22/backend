@@ -3,8 +3,9 @@
  ## Byron Odhiambo
 
 ## Screenshot
+![landing](https://user-images.githubusercontent.com/104425175/190138486-adeaaf0a-b498-44f9-b141-041798a132e3.png)
 
- <!-- ![image](./blog-client/public/landing.png) -->
+ 
 
  
  ## Table of Content
